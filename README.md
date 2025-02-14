@@ -4,9 +4,9 @@ Welcome to my **personal portfolio** built with **Next.js**! This project showca
 
 ## 🚀 Tech Stack
 
-- **Frontend:** Next.js, React, Tailwind CSS (or any other UI framework you're using)
+- **Frontend:** Next.js, React, Tailwind CSS 
 - **Deployment:** Vercel (or mention your hosting platform)
-- **Animations & UI Enhancements:** Framer Motion, ShadCN, etc. (if used)
+- **Animations & UI Enhancements:** Framer Motion,Aceternity etc. (if used)
 
 ## 🎨 Features
 
@@ -28,7 +28,7 @@ The portfolio is live at: **[your-website.com](https://your-website.com)**
 To run it locally:
 
 ```sh
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/Raghurajpratapsingh28/Raghurajpratapsingh.git
 cd YOUR_REPO
 npm install  # or yarn install
 npm run dev  # or yarn dev
