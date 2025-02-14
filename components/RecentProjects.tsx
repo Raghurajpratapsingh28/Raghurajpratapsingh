@@ -9,7 +9,7 @@ import { link } from "fs";
 const RecentProjects = () => {
   return (
     <div className="py-20" id="projects">
-      <h1 className="heading">
+      <h1 className="text-center text-[40px] md:text-5xl lg:text-6xl">
         A small selection of{" "}
         <span className="text-purple">recent projects</span>
       </h1>

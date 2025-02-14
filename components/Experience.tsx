@@ -6,7 +6,7 @@ const Experience = () => {
   return (
         <div>
             <div className="py-20" id="projects">
-        <h1 className="heading">
+        <h1 className="text-center text-[40px] md:text-5xl lg:text-6xl">
            My {' '}
             <span className="text-purple">Work Experience</span>
         </h1>
