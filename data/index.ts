@@ -80,11 +80,11 @@ export const navItems = [
     },
     {
       id: 2,
-      title: "An Chat Application",
-      des: "Designed and developed a real-time chat application with instant messaging, user authentication, and multimedia sharing features for seamless communication",
+      title: "TaskeryX",
+      des: "It is an team collabration app that can collaborates during making projects and distrube work on teammates",
       img: "/p2.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-      link: "https://github.com/Raghurajpratapsingh28/Synapse",
+      link: "https://github.com/Raghurajpratapsingh28/TaskeryX",
     },
     
   ];
