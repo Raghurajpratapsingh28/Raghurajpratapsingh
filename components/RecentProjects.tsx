@@ -32,8 +32,8 @@ const RecentProjects = () => {
                   <Image width={100} height={100} src="/bg.png" alt="bgimg" />
                 </div>
                 <Image
-                  width={100}
-                  height={100}
+                  width={500}
+                  height={500}
                   src={item.img}
                   alt="cover"
                   className="z-10 absolute bottom-0"
