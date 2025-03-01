@@ -85,7 +85,15 @@ export const navItems = [
       img: "/p2.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
       link: "https://github.com/Raghurajpratapsingh28/TaskeryX",
-    },
+    },{
+  "id": 3,
+  "title": "Astrix-Bounty",
+  "des": "A blockchain-based freelancing platform where project owners hire workers, payments are securely held in escrow, and funds are released upon project approval. If the owner is unsatisfied, a partial refund system is in place with platform fees.",
+  "img": "/p2.svg",
+  "iconLists": ["/next.svg", "/tail.svg", "/ts.svg", "/prisma.svg", "/blockchain.svg"],
+  "link": "https://github.com/Raghurajpratapsingh28/astrix-bounty"
+}
+
     
   ];
   
