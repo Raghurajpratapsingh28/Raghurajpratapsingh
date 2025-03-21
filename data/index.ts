@@ -91,9 +91,15 @@ export const navItems = [
   "des": "A blockchain-based freelancing platform where project owners hire workers, payments are securely held in escrow, and funds are released upon project approval. If the owner is unsatisfied, a partial refund system is in place with platform fees.",
   "img": "/p2.svg",
   "iconLists": ["/next.svg", "/tail.svg", "/ts.svg", "/prisma.svg", "/blockchain.svg"],
-  "link": "https://github.com/Raghurajpratapsingh28/astrix-bounty"
+  "link": "https://astrix-bounty.vercel.app"
+},{
+  "id": 4,
+  "title": "Ecommerce Website",
+  "des": "Made a Ecommerce website for selling Northeast things like Wood things etc etc.",
+  "img": "/p2.svg",
+  "iconLists": ["/next.svg", "/tail.svg", "/ts.svg", "/prisma.svg", "/blockchain.svg"],
+  "link": "https://github.com/Raghurajpratapsingh28/pravah"
 }
-
     
   ];
   
