@@ -99,6 +99,13 @@ export const navItems = [
   "img": "/p2.svg",
   "iconLists": ["/next.svg", "/tail.svg", "/ts.svg", "/prisma.svg", "/blockchain.svg"],
   "link": "https://github.com/Raghurajpratapsingh28/pravah"
+},{
+  "id": 5,
+  "title": "Solana Wallet",
+  "des": "Made a web baased wallet which created private and publig on mnemonics.",
+  "img": "https://postimg.cc/Y4hBMXQy",
+  "iconLists": ["/next.svg", "/tail.svg", "/ts.svg", "/prisma.svg", "/blockchain.svg"],
+  "link": "https://sol-eth-wallet.vercel.app/"
 }
     
   ];
