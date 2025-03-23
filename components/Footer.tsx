@@ -11,7 +11,7 @@ const Footer = () => {
   return (
     <footer className="w-full pt-20 pb-10" id="contact">
       {/* background grid */}
-      <div className="w-full absolute left-0 -bottom-72 min-h-96">
+      {/* <div className="w-full absolute left-0 -bottom-72 min-h-96">
         <Image
           src="/footer-grid.svg"
           alt="grid"
@@ -19,7 +19,7 @@ const Footer = () => {
           width={200}
           height={200}
         />
-      </div>
+      </div> */}
 
       <div className="flex flex-col items-center">
         <h1 className="heading lg:max-w-[45vw]">

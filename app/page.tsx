@@ -13,7 +13,7 @@ import Footer from "@/components/Footer";
 
 export default function Home() {
   return (
-    <main className="relative bg-black-100 text-white flex justify-center items-center flex-col overflow-hidden mx-auto sm:px-10 px-5">
+    <main className="relative bg-black-100 text-white flex justify-center items-center flex-col  mx-auto sm:px-10 px-5 overflow-clip">
    <div className="max-w-full w-full">
     <FloatingNav navItems={navItems}/>
     {/* <FloatingNav navItems={[{name:'Home', link: '/', icon: <FaHome/> }]}/> */}
