@@ -9,7 +9,7 @@ const Experience = () => {
             <div className="py-20" id="projects">
         <h1 className="text-center text-[40px] md:text-5xl lg:text-6xl">
            My {' '}
-            <span className="text-purple">Work Experience</span>
+            <span className="text-purple">Achievements</span>
         </h1>
         <div className="w-full mt-12 grid lg:grid-cols-4 grid-cols-1 gap-10">
             {workExperience.map((card)=>(

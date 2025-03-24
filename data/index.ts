@@ -137,6 +137,20 @@ export const navItems = [
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
     },
+    {
+      id: 2,
+      title: "Full Stack Developer - Hive Tryst Hackathon",
+      desc: "Developed a freelancing website on Hive Blockchain .",
+      className: "md:col-span-2",
+      thumbnail: "/exp1.svg",
+    },
+    {
+      id: 3,
+      title: "Full Stack Developer - ITAC Hackathon NITA",
+      desc: "Developed a Ecommerce website to sell NorthEast porudct to the world.",
+      className: "md:col-span-2",
+      thumbnail: "/exp1.svg",
+    },
   
   ];
   
