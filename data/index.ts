@@ -120,7 +120,7 @@ export const navItems = [
   export const testimonials = [
     {
       quote:
-        "We're thrilled to spotlight the incredible developer behind PlanetX's stunning website! Their end-to-end expertise transformed our vision into a sleek, responsive platform that elevates the user experience. From crafting elegant front-end designs to building robust back-end systems, their innovation and dedication have set a new standard for our brand. Join us in celebrating their talent and check out the seamless, modern site they brought to life at planetx-live.com! 🚀 #PlanetX #WebDevelopment #TechInnovation ",
+        "We're thrilled to spotlight the incredible developer behind PlanetX's stunning website! Their end-to-end expertise transformed our vision into a sleek, responsive platform that elevates the user experience. From crafting elegant front-end designs to building robust back-end systems, their innovation and dedication have set a new standard for our brand. Join us in celebrating their talent and check out the seamless, modern site they brought to life at planetx-live.com! 🚀",
       name: "Surjeet Solanki",
       title: "Founder of PlanetX",
     },
