@@ -106,6 +106,13 @@ export const navItems = [
   "img": "/wallet.svg",
   "iconLists": ["/next.svg", "/tail.svg", "/ts.svg", "/prisma.svg", "/blockchain.svg"],
   "link": "https://i.postimg.cc/Y4hBMXQy/Screenshot-2025-03-23-at-9-49-18-PM.png"
+},{
+  "id": 6,
+  "title": "PlanetX",
+  "des": "Made a website for Realstate. It will help broker and user to find the user and broker.",
+  "img": "/wallet.svg",
+  "iconLists": ["/next.svg", "/tail.svg", "/ts.svg", "/prisma.svg", "/blockchain.svg"],
+  "link": "https://planetx-live.com"
 }
     
   ];
