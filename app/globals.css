@@ -6,3 +6,17 @@
 html {
     scroll-behavior: smooth;
   }
+  /* In your CSS file, e.g., globals.css */
+.heading {
+  font-size: 3rem; /* Adjust size as needed, e.g., 2.5rem, 4rem */
+  line-height: 1.2;
+  text-align: center;
+  font-weight: 700; /* Optional: make it bold */
+  margin-bottom: 2rem; /* Optional: add spacing */
+}
+
+@media (max-width: 768px) {
+  .heading {
+    font-size: 2rem; /* Smaller size for mobile */
+  }
+}

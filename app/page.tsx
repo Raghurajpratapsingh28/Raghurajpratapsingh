@@ -9,6 +9,7 @@ import { navItems } from "@/data";
 import Experience from "@/components/Experience";
 // import Approach from "@/components/Approach";
 import Footer from "@/components/Footer";
+import Clients from "@/components/Clients";
 
 
 export default function Home() {
@@ -16,12 +17,11 @@ export default function Home() {
     <main className="relative bg-black-100 text-white flex justify-center items-center flex-col  mx-auto sm:px-10 px-5 overflow-clip">
    <div className="max-w-full w-full">
     <FloatingNav navItems={navItems}/>
-    {/* <FloatingNav navItems={[{name:'Home', link: '/', icon: <FaHome/> }]}/> */}
    
     <Hero/>
     <Grid/>
     <RecentProjects/>
-    {/* <Clients/> */}
+    <Clients/>
     <Experience/>
     {/* <Approach/> */}
     <Footer/>

@@ -29,11 +29,12 @@ export default function  Hero(){
     I build seamless, scalable, and high-performance applications that bring ideas to life.
     </p>
     <a href="#about">
+   <a href="#projects">
     <MagicButton
     title="My Projects"
     icon={<FaLocationArrow/>}
     position={'right'}/>
-    
+    </a>
     </a>
     </div>
     </div>
