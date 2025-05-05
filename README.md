@@ -10,6 +10,7 @@ Welcome to my **personal portfolio** built with **Next.js**! This project showca
 
 ## 🎨 Features
 
+
 ✅ Fully responsive design  
 ✅ Optimized performance with Next.js  
 ✅ Smooth animations and UI interactions  
