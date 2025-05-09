@@ -89,7 +89,7 @@ export const navItems = [
   "id": 3,
   "title": "Astrix-Bounty",
   "des": "A blockchain-based freelancing platform where project owners hire workers, payments are securely held in escrow, and funds are released upon project approval. If the owner is unsatisfied, a partial refund system is in place with platform fees.",
-  "img": "/p2.svg",
+  "img": "/astrix.png",
   "iconLists": ["/next.svg", "/tail.svg", "/ts.svg", "/prisma.svg", "/blockchain.svg"],
   "link": "https://astrix-bounty.vercel.app"
 },{
@@ -103,14 +103,14 @@ export const navItems = [
   "id": 5,
   "title": "Solana Wallet",
   "des": "Made a web baased wallet which created private and publig on mnemonics.",
-  "img": "/wallet.svg",
+  "img": "/solana.png",
   "iconLists": ["/next.svg", "/tail.svg", "/ts.svg", "/prisma.svg", "/blockchain.svg"],
-  "link": "https://i.postimg.cc/Y4hBMXQy/Screenshot-2025-03-23-at-9-49-18-PM.png"
+  "link": "https://sol-eth-wallet.vercel.app/"
 },{
   "id": 6,
   "title": "PlanetX",
   "des": "Made a website for Realstate. It will help broker and user to find the user and broker.",
-  "img": "/wallet.svg",
+  "img": "/planetx.png",
   "iconLists": ["/next.svg", "/tail.svg", "/ts.svg", "/prisma.svg", "/blockchain.svg"],
   "link": "https://planetx-live.com"
 }

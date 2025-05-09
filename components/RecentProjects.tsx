@@ -1,11 +1,9 @@
 "use client";
 
 import { FaLocationArrow } from "react-icons/fa6";
-
 import { projects } from "@/data";
 import { PinContainer } from "./ui/3d-pin";
 import Image from "next/image";
-// import { link } from "fs";
 
 const RecentProjects = () => {
   return (
@@ -20,23 +18,26 @@ const RecentProjects = () => {
             className="lg:min-h-[32.5rem] h-[25rem] flex items-center justify-center sm:w-96 w-[80vw]"
             key={item.id}
           >
-            <PinContainer
-              title={item.link}
-              href={item.link}
-            >
+            <PinContainer title={item.link} href={item.link}>
               <div className="relative flex items-center justify-center sm:w-96 w-[80vw] overflow-hidden h-[20vh] lg:h-[30vh] mb-10">
                 <div
                   className="relative w-full h-full overflow-hidden lg:rounded-3xl"
                   style={{ backgroundColor: "#13162D" }}
                 >
-                  <Image width={100} height={100} src="/bg.png" alt="bgimg" />
+                  <Image
+                    src="/bg.png"
+                    alt="bgimg"
+                    fill
+                    style={{ objectFit: "cover" }}
+                    className="z-0"
+                  />
                 </div>
                 <Image
-                  width={500}
-                  height={500}
                   src={item.img}
                   alt="cover"
-                  className="z-10 absolute bottom-0"
+                  fill
+                  style={{ objectFit: "cover" }}
+                  className="z-10 absolute inset-0"
                 />
               </div>
 
