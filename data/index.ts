@@ -91,7 +91,7 @@ export const navItems = [
   "des": "A blockchain-based freelancing platform where project owners hire workers, payments are securely held in escrow, and funds are released upon project approval. If the owner is unsatisfied, a partial refund system is in place with platform fees.",
   "img": "/astrix.png",
   "iconLists": ["/next.svg", "/tail.svg", "/ts.svg", "/prisma.svg", "/blockchain.svg"],
-  "link": "https://astrix-bounty.vercel.app"
+  "link": "https://astrix.raghuraj.xyz"
 },{
   "id": 4,
   "title": "Ecommerce Website",
@@ -105,7 +105,7 @@ export const navItems = [
   "des": "Made a web baased wallet which created private and publig on mnemonics.",
   "img": "/solana.png",
   "iconLists": ["/next.svg", "/tail.svg", "/ts.svg", "/prisma.svg", "/blockchain.svg"],
-  "link": "https://sol-eth-wallet.vercel.app/"
+  "link": "https://solana.raghuraj.xyz/"
 },{
   "id": 6,
   "title": "PlanetX",
