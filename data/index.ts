@@ -1,7 +1,6 @@
 export const navItems = [
     { name: "About", link: "#about" },
     { name: "Projects", link: "#projects" },
-    { name: "Testimonials", link: "#testimonials" },
     { name: "Contact", link: "#contact" },
   ];
   
@@ -113,6 +112,14 @@ export const navItems = [
   "img": "/planetx.png",
   "iconLists": ["/next.svg", "/tail.svg", "/ts.svg", "/prisma.svg", "/blockchain.svg"],
   "link": "https://planetx-live.com"
+},
+{
+  "id": 7,
+  "title": "Environment Manager",
+  "des": "Made a desktop application for managing the environment on your computer. It uses Your local storage to store the data. It has various features like adding, deleting, editing and searching, import and export .env files.",
+  "img": "/env.png",
+  "iconLists": ["/next.svg", "/tail.svg", "/ts.svg"],
+  "link": "https://envmanager.raghuraj.xyz/"
 }
     
   ];
