@@ -84,51 +84,58 @@ export const navItems = [
       img: "/p2.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
       link: "https://github.com/Raghurajpratapsingh28/TaskeryX",
-    },{
-  "id": 3,
-  "title": "Astrix-Bounty",
-  "des": "A blockchain-based freelancing platform where project owners hire workers, payments are securely held in escrow, and funds are released upon project approval. If the owner is unsatisfied, a partial refund system is in place with platform fees.",
-  "img": "/astrix.png",
-  "iconLists": ["/next.svg", "/tail.svg", "/ts.svg", "/prisma.svg", "/blockchain.svg"],
-  "link": "https://astrix.raghuraj.xyz"
-},{
-  "id": 4,
-  "title": "Ecommerce Website",
-  "des": "Made a Ecommerce website for selling Northeast things like Wood things etc etc.",
-  "img": "/p2.svg",
-  "iconLists": ["/next.svg", "/tail.svg", "/ts.svg", "/prisma.svg", "/blockchain.svg"],
-  "link": "https://github.com/Raghurajpratapsingh28/pravah"
-},{
-  "id": 5,
-  "title": "Solana Wallet",
-  "des": "Made a web baased wallet which created private and publig on mnemonics.",
-  "img": "/solana.png",
-  "iconLists": ["/next.svg", "/tail.svg", "/ts.svg", "/prisma.svg", "/blockchain.svg"],
-  "link": "https://solana.raghuraj.xyz/"
-},{
-  "id": 6,
-  "title": "PlanetX",
-  "des": "Made a website for Realstate. It will help broker and user to find the user and broker.",
-  "img": "/planetx.png",
-  "iconLists": ["/next.svg", "/tail.svg", "/ts.svg", "/prisma.svg", "/blockchain.svg"],
-  "link": "https://github.com/Planetxlive/planetx-backend"
-},
-{
-  "id": 7,
-  "title": "Environment Manager",
-  "des": "Made a desktop application for managing the environment on your computer. It uses Your local storage to store the data. It has various features like adding, deleting, editing and searching, import and export .env files.",
-  "img": "/env.png",
-  "iconLists": ["/next.svg", "/tail.svg", "/ts.svg"],
-  "link": "https://envmanager.raghuraj.xyz/"
-},
- {
-  "id": 8,
-  "title": "CIRVA (Cross-Chain Identity Reputation & Verification Agent)",
-  "des": "CIRVA is a decentralized identity and reputation engine built on top of Chainlink Functions and CCIP. It fetches and verifies Web2 social data (like Twitter, GitHub, and Discord), processes it using off-chain AI agents, and anchors user scores and identities onchain. It empowers apps and protocols to access reliable, tamper-proof user reputations cross-chain.",
-  "img": "/cirva.png",
-  "iconLists": ["/next.svg", "/prisma.svg", "/ts.svg","/blockchain.svg"],
-  "link": "https://cirva.vercel.app/"
-}
+      },{
+        "id": 3,
+        "title": "Astrix-Bounty",
+        "des": "A blockchain-based freelancing platform where project owners hire workers, payments are securely held in escrow, and funds are released upon project approval. If the owner is unsatisfied, a partial refund system is in place with platform fees.",
+        "img": "/astrix.png",
+        "iconLists": ["/next.svg", "/tail.svg", "/ts.svg", "/prisma.svg", "/blockchain.svg"],
+        "link": "https://astrix.raghuraj.xyz"
+        },{
+        "id": 4,
+        "title": "Ecommerce Website",
+        "des": "Made a Ecommerce website for selling Northeast things like Wood things etc etc.",
+        "img": "/p2.svg",
+        "iconLists": ["/next.svg", "/tail.svg", "/ts.svg", "/prisma.svg", "/blockchain.svg"],
+        "link": "https://github.com/Raghurajpratapsingh28/pravah"
+      },{
+        "id": 5,
+        "title": "Solana Wallet",
+        "des": "Made a web baased wallet which created private and publig on mnemonics.",
+        "img": "/solana.png",
+        "iconLists": ["/next.svg", "/tail.svg", "/ts.svg", "/prisma.svg", "/blockchain.svg"],
+        "link": "https://solana.raghuraj.xyz/"
+      },{
+        "id": 6,
+        "title": "PlanetX Website",
+        "des": "Made a website for Realstate. It will help broker and user to find the user and broker.",
+        "img": "/planetx.png",
+        "iconLists": ["/next.svg", "/tail.svg", "/ts.svg", "/prisma.svg", "/blockchain.svg"],
+        "link": "https://github.com/Planetxlive/planetx-backend"
+      },{
+        "id": 7,
+        "title": "PlanetX Android App",
+        "des": "Made a Android app for Realstate. It will help broker and user to find the user and broker.",
+        "img": "/planetx-app.png",
+        "iconLists": ["/next.svg", "/tail.svg", "/ts.svg", "/prisma.svg", "/blockchain.svg"],
+        "link": "https://github.com/Planetxlive/planetx-app"
+      },
+      {
+        "id": 8,
+        "title": "Environment Manager",
+        "des": "Made a desktop application for managing the environment on your computer. It uses Your local storage to store the data. It has various features like adding, deleting, editing and searching, import and export .env files.",
+        "img": "/env.png",
+        "iconLists": ["/next.svg", "/tail.svg", "/ts.svg"],
+        "link": "https://envmanager.raghuraj.xyz/"
+      },
+      {
+        "id": 9,
+        "title": "CIRVA (Cross-Chain Identity Reputation & Verification Agent)",
+        "des": "CIRVA is a decentralized identity and reputation engine built on top of Chainlink Functions and CCIP. It fetches and verifies Web2 social data (like Twitter, GitHub, and Discord), processes it using off-chain AI agents, and anchors user scores and identities onchain. It empowers apps and protocols to access reliable, tamper-proof user reputations cross-chain.",
+        "img": "/cirva.png",
+        "iconLists": ["/next.svg", "/prisma.svg", "/ts.svg","/blockchain.svg"],
+        "link": "https://cirva.vercel.app/"
+      }
       
     
   ];
@@ -155,26 +162,60 @@ export const navItems = [
   export const workExperience = [
     {
       id: 1,
-      title: "Frontend Developer - Cyber Security Hackathon",
+      title: "Finalist - Cyber Security Hackathon",
       desc: "Assisted in the development of a Web Extension, to decrypt Cieser Cypher Text.",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
     },
     {
       id: 2,
-      title: "Full Stack Developer - Hive Tryst Hackathon",
+      title: "Finalist - Hive Tryst Hackathon",
       desc: "Developed a freelancing website on Hive Blockchain .",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
     },
     {
       id: 3,
-      title: "Full Stack Developer - ITAC Hackathon NITA",
+      title: "Finalist - ITAC Hackathon NITA",
       desc: "Developed a Ecommerce website to sell NorthEast porudct to the world.",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
     },
+    {
+      id: 4,
+      title: "Finalist - HACKSAGON Hackathon IITM",
+      desc: "Developed a social website website for Developers",
+      className: "md:col-span-2",
+      thumbnail: "/exp1.svg",
+    },
   
+  ];
+  
+  export const companyExperience = [
+    {
+      id: 1,
+      title: "Software Engineer",
+      company: "PlanetX",
+      location: "Remote",
+      date: "10 March 2025 - 4 July 2025",
+      desc: "Developed and maintained the mobile application and website for a real estate platform connecting buyers and sellers with rich listings and personalized recommendations",
+      className: "md:col-span-2",
+      thumbnail: "/planetx.png",
+      icon: "/planetx.png",
+      github:"https://github.com/Planetxlive"
+    },
+    {
+      id: 2,
+      title: "Freelance Developer ",
+      company: "Freelance",
+      location: "Remote",
+      date: "August 2024 - Present",
+      desc: "Successfully delivered 4 freelance projects in Full Stack Development, consistently achieving client satisfaction and meeting tight deadlines.",
+      className: "md:col-span-2",
+      thumbnail: "/cloud.svg",
+      icon: "/cloud.svg",
+      github:"https://archstudio.raghuraj.xyz"
+    },
   ];
   
   export const socialMedia = [
