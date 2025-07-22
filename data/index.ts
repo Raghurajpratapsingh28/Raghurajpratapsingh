@@ -111,7 +111,7 @@ export const navItems = [
   "des": "Made a website for Realstate. It will help broker and user to find the user and broker.",
   "img": "/planetx.png",
   "iconLists": ["/next.svg", "/tail.svg", "/ts.svg", "/prisma.svg", "/blockchain.svg"],
-  "link": "https://planetx-live.com"
+  "link": "https://github.com/Planetxlive/planetx-backend"
 },
 {
   "id": 7,
@@ -120,7 +120,16 @@ export const navItems = [
   "img": "/env.png",
   "iconLists": ["/next.svg", "/tail.svg", "/ts.svg"],
   "link": "https://envmanager.raghuraj.xyz/"
+},
+ {
+  "id": 8,
+  "title": "CIRVA (Cross-Chain Identity Reputation & Verification Agent)",
+  "des": "CIRVA is a decentralized identity and reputation engine built on top of Chainlink Functions and CCIP. It fetches and verifies Web2 social data (like Twitter, GitHub, and Discord), processes it using off-chain AI agents, and anchors user scores and identities onchain. It empowers apps and protocols to access reliable, tamper-proof user reputations cross-chain.",
+  "img": "/cirva.png",
+  "iconLists": ["/next.svg", "/prisma.svg", "/ts.svg","/blockchain.svg"],
+  "link": "https://cirva.vercel.app/"
 }
+      
     
   ];
   
