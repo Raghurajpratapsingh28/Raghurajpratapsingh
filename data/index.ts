@@ -86,19 +86,19 @@ export const navItems = [
       link: "https://github.com/Raghurajpratapsingh28/TaskeryX",
       },{
         "id": 3,
-        "title": "Astrix-Bounty",
-        "des": "A blockchain-based freelancing platform where project owners hire workers, payments are securely held in escrow, and funds are released upon project approval. If the owner is unsatisfied, a partial refund system is in place with platform fees.",
-        "img": "/astrix.png",
-        "iconLists": ["/next.svg", "/tail.svg", "/ts.svg", "/prisma.svg", "/blockchain.svg"],
-        "link": "https://astrix.raghuraj.xyz"
-        },{
-        "id": 4,
         "title": "Ecommerce Website",
         "des": "Made a Ecommerce website for selling Northeast things like Wood things etc etc.",
         "img": "/p2.svg",
         "iconLists": ["/next.svg", "/tail.svg", "/ts.svg", "/prisma.svg", "/blockchain.svg"],
         "link": "https://github.com/Raghurajpratapsingh28/pravah"
       },{
+        "id": 4,
+        "title": "Astrix-Bounty",
+        "des": "A blockchain-based freelancing platform where project owners hire workers, payments are securely held in escrow, and funds are released upon project approval. If the owner is unsatisfied, a partial refund system is in place with platform fees.",
+        "img": "/astrix.png",
+        "iconLists": ["/next.svg", "/tail.svg", "/ts.svg", "/prisma.svg", "/blockchain.svg"],
+        "link": "https://astrix.raghuraj.xyz"
+        },{
         "id": 5,
         "title": "Solana Wallet",
         "des": "Made a web baased wallet which created private and publig on mnemonics.",
