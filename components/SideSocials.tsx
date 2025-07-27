@@ -29,7 +29,7 @@ const socials = [
 
 const SideSocials = () => {
   return (
-    <div className="fixed top-1/2 right-6 -translate-y-1/2 z-50 flex flex-col gap-4">
+    <div className="fixed top-1/2 right-0 -translate-y-1/2 z-50 flex flex-col gap-4">
       {socials.map((social) => (
         <a
           key={social.id}
