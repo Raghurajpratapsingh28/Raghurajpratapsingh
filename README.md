@@ -2,7 +2,7 @@
 
 Welcome to my **personal portfolio** built with **Next.js**! This project showcases my work, skills, and experiences in a sleek and modern design.
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack      
 
 - **Frontend:** Next.js, React, Tailwind CSS 
 - **Deployment:** Vercel (or mention your hosting platform)
